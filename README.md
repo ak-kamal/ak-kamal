@@ -5,7 +5,7 @@
 <h3>CSE Undergraduate Researcher · BRAC University</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1400&color=35B8CF&center=true&vCenter=true&width=600&height=45&lines=Computational+Neuroscience;EEG+Signal+Analysis;Spiking+Neural+Networks;Reinforcement+Learning"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=35B8CF&center=true&vCenter=true&width=600&height=45&lines=Computational+Neuroscience;EEG+Signal+Analysis;Spiking+Neural+Networks;Reinforcement+Learning"
   alt="Research interests typing animation"
 />
 
@@ -15,7 +15,7 @@
 <a href="https://github.com/ak-kamal?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-123B59?style=for-the-badge&logo=github&logoColor=white" alt="Research Repositories"/>
 </a>
-<a href="mailto:abdulkariem.bin.kamal@g.bracu.ac.bd">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulkariem.bin.kamal%40gmail.com">
   <img src="https://img.shields.io/badge/Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -43,9 +43,13 @@ I'm especially interested in connecting computational models with experimental n
 ## 🔬 Selected research
 
 ### 01 · Interpretable SNN–KAN for EEG Emotion Recognition
-![Thesis](https://img.shields.io/badge/Undergraduate_Thesis-0E7490?style=flat-square)
-![Role](https://img.shields.io/badge/Team_Lead-0F766E?style=flat-square)
-![Status](https://img.shields.io/badge/Completed-2563EB?style=flat-square)
+<a href="https://hdl.handle.net/10361/30108">
+  <img alt="Undergraduate Thesis" src="https://img.shields.io/badge/Undergraduate_Thesis-0E7490?style=flat-square"/>
+  <img alt="Team Lead" src="https://img.shields.io/badge/Team_Lead-0F766E?style=flat-square"/>
+  <img alt="Completed" src="https://img.shields.io/badge/Completed-2563EB?style=flat-square"/>
+</a>
+<img ... />
+<img ... />
 [Read the institutional thesis](https://hdl.handle.net/10361/30108)
 
 Led a four-member thesis team developing a spiking neural network (SNN) with a Kolmogorov–Arnold Network (KAN) readout for **channel-wise, class-specific interpretability**. The model uses four-channel DER-VREEG EEG, participant-wise preprocessing, latency-weighted spike encoding, and SNN-based temporal features.
@@ -54,8 +58,12 @@ Led a four-member thesis team developing a spiking neural network (SNN) with a K
 - **Research focus:** Making EEG classification decisions more interpretable through learned channel-contribution curves.
 
 ### 02 · Reward-Modulated Spiking Reinforcement Learning
-![Type](https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square)
-![Status](https://img.shields.io/badge/Completed-2563EB?style=flat-square)
+<a href="https://github.com/ak-kamal/reward-modulated-spiking-rl">
+  <img alt="Independent Research" src="https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square"/>
+  <img alt="Completed" src="https://img.shields.io/badge/Completed-2563EB?style=flat-square"/>
+</a>
+<img ... />
+<img ... />
 [Explore the code and experiments](https://github.com/ak-kamal/reward-modulated-spiking-rl)
 
 Implemented a spiking actor–critic agent for a noisy gridworld. The **actor learns through local, reward-modulated three-factor plasticity and eligibility traces**; the critic is trained using backpropagation.
@@ -65,8 +73,12 @@ Implemented a spiking actor–critic agent for a noisy gridworld. The **actor le
 - Documented experimental limitations and reproducibility details in the repository.
 
 ### 03 · Latent Neural State Dynamics in EEG
-![Type](https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square)
-![Status](https://img.shields.io/badge/Ongoing-B7791F?style=flat-square)
+<a href="https://github.com/ak-kamal/eeg-neural-state-dynamics">
+  <img alt="Independent Research" src="https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square"/>
+  <img alt="Ongoing" src="https://img.shields.io/badge/Ongoing-B7791F?style=flat-square"/>
+</a>
+<img ... />
+<img ... />
 [Explore the research repository](https://github.com/ak-kamal/eeg-neural-state-dynamics)
 
 Developing an analysis pipeline to investigate **recurring neural states during a working-memory task**, using high-density EEG, time-delay embedding, PCA, and hidden Markov models. Planned analyses include state occupancy, dwell time, transitions, and their relationships with behavior.
