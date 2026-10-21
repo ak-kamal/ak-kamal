@@ -61,8 +61,7 @@ Led a four-member thesis team developing a spiking neural network (SNN) with a K
   <img alt="Independent Research" src="https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square"/>
   <img alt="Completed" src="https://img.shields.io/badge/Completed-2563EB?style=flat-square"/>
 </a>
-<img ... />
-<img ... />
+
 [Explore the code and experiments](https://github.com/ak-kamal/reward-modulated-spiking-rl)
 
 Implemented a spiking actor–critic agent for a noisy gridworld. The **actor learns through local, reward-modulated three-factor plasticity and eligibility traces**; the critic is trained using backpropagation.
@@ -76,8 +75,7 @@ Implemented a spiking actor–critic agent for a noisy gridworld. The **actor le
   <img alt="Independent Research" src="https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square"/>
   <img alt="Ongoing" src="https://img.shields.io/badge/Ongoing-B7791F?style=flat-square"/>
 </a>
-<img ... />
-<img ... />
+
 [Explore the research repository](https://github.com/ak-kamal/eeg-neural-state-dynamics)
 
 Developing an analysis pipeline to investigate **recurring neural states during a working-memory task**, using high-density EEG, time-delay embedding, PCA, and hidden Markov models. Planned analyses include state occupancy, dwell time, transitions, and their relationships with behavior.
