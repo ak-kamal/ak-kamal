@@ -48,8 +48,7 @@ I'm especially interested in connecting computational models with experimental n
   <img alt="Team Lead" src="https://img.shields.io/badge/Team_Lead-0F766E?style=flat-square"/>
   <img alt="Completed" src="https://img.shields.io/badge/Completed-2563EB?style=flat-square"/>
 </a>
-<img ... />
-<img ... />
+
 [Read the institutional thesis](https://hdl.handle.net/10361/30108)
 
 Led a four-member thesis team developing a spiking neural network (SNN) with a Kolmogorov–Arnold Network (KAN) readout for **channel-wise, class-specific interpretability**. The model uses four-channel DER-VREEG EEG, participant-wise preprocessing, latency-weighted spike encoding, and SNN-based temporal features.
