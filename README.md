@@ -73,7 +73,7 @@ Implemented a spiking actor–critic agent for a noisy gridworld. The **actor le
 ### 03 · Latent Neural State Dynamics in EEG
 <a href="https://github.com/ak-kamal/eeg-neural-state-dynamics">
   <img alt="Independent Research" src="https://img.shields.io/badge/Independent_Research-0E7490?style=flat-square"/>
-  <img alt="Ongoing" src="https://img.shields.io/badge/Ongoing-B7791F?style=flat-square"/>
+  <img alt="Completed" src="https://img.shields.io/badge/Completed-2563EB?style=flat-square"/>
 </a>
 
 [Explore the research repository](https://github.com/ak-kamal/eeg-neural-state-dynamics)
